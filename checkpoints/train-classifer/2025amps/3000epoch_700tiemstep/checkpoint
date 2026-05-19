@@ -1,2 +1,0 @@
-model_checkpoint_path: "whole_classifier_sigmoid_Unet_model_train"
-all_model_checkpoint_paths: "whole_classifier_sigmoid_Unet_model_train"
