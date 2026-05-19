@@ -33,7 +33,7 @@
 
 11. If your sequence file for test is fasta file please covert it to csv file by code:
 
-   python ./tools/fasta2csv.py ./test/test.fasta
+    python ./tools/fasta2csv.py ./test/test.fasta
    
       you can change the ./test/test.fasta to your fasta file path
 
