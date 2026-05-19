@@ -1,4 +1,4 @@
-1. After Downloaded this project, please visit goole drive by this link https://drive.google.com/drive/folders/1FTkL4aeZgI6k7zRjPMfczfwIV_rV3CME?usp=sharing, and download:
+1. After downloaded this project, please visit goole drive by this link https://drive.google.com/drive/folders/1FTkL4aeZgI6k7zRjPMfczfwIV_rV3CME?usp=sharing, and download:
    1.1 feature folder, and put it to AMP_data folder, it should be: AMP_data/feature/amp_cai_5_30_amp_random_classifier_features.csv;
    1.2 checkpoints folder, and put it to the same folder (e.g., AIGCRS-AMP30 folder) of readme file.
 
