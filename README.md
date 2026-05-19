@@ -37,3 +37,7 @@
    
       you can change the ./test/test.fasta to your fasta file path
 
+12. For MIC values prediction of E. coli and S. aureus, please install by this project: https://github.com/janecai0714/AMP_regression_EC_SA, and predict follow its introduction.
+
+    
+14. For 50% haemolytic concentration (HC50) value prediction, please visit: https://app.cbbio.online/hemopep/home, and predict follow its introduction.
