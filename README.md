@@ -1,4 +1,4 @@
-Following the step 1 to 3, the AIGCRS-AMP30 can be installed. 
+Following the step 1 to 3, AIGCRS-AMP30 can be installed. 
 
 With the step 4, novel AMP canidate sequences can be generated. 
 With the step 5, AMP probability score can be predicted. 
