@@ -3,7 +3,7 @@ Following the step 1 to 3, AIGCRS-AMP30 can be installed.
 With the step 4, novel AMP canidate sequences can be generated. 
 With the step 5, AMP probability score can be predicted. 
 
-And then the MIC values of E. coli and S. aureus and HC50 values can be predicted by other 2 projects (step 7 & 8).
+And then the MIC values of E. coli and S. aureus and HC50 values can be predicted by the other 2 projects (step 7 & 8).
 
 
 1. After downloaded this project, please visit goole drive by this link https://drive.google.com/drive/folders/1FTkL4aeZgI6k7zRjPMfczfwIV_rV3CME?usp=sharing, and download:
