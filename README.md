@@ -39,7 +39,7 @@ And then the MIC values of E. coli and S. aureus and HC50 values can be predicte
       The tested file are set to test_path = "./test/sample.csv".
       you can visit RFTest.py and change test_path to your path
 
-6. If your sequence file for test is fasta file please covert it to csv file by code:
+6. If your sequence file for test is fasta file, please covert it to csv file by code:
 
     python ./tools/fasta2csv.py ./test/test.fasta
    
