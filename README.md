@@ -1,4 +1,7 @@
-With this github project, we can generate novel AMP canidate sequences (step 4), and predict AMP probability score (step 5). 
+Following the step 1 to 3, the AIGCRS-AMP30 can be installed. 
+
+With the step 4, novel AMP canidate sequences can be generated. 
+With the step 5, AMP probability score can be predicted. 
 
 And then the MIC values of E. coli and S. aureus and HC50 values can be predicted by other 2 projects (step 7 & 8).
 
