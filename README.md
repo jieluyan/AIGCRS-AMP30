@@ -51,17 +51,14 @@ And then the MIC values of E. coli and S. aureus and HC50 values can be predicte
 8. For 50% haemolytic concentration (HC50) value prediction, please visit: https://app.cbbio.online/hemopep/home, and predict follow its introduction.
 
 9. Follow the following screen conditions to extract the AMP candidate squences for wet-lab experiments.
-\begin{equation}
-\label{eq:screen_criteria_3dStruct}
+$$
 \left\{
 \begin{array}{cc}
-    AMP_{prob}&> 0.9  \\
-     EC_{MIC}&<10 \\
-     SA_{MIC}&<10 \\
-     HC_{50}&>200 \\
-     % Length&>7 \\
-     % \frac{HC}{EC_{MIC}}&>20 \\
-     % \frac{HC}{SA_{MIC}}&>20 \\
-\end{array},
+    \text{AMP}_{\text{prob}} & > 0.9  \\
+     \text{EC}_{\text{MIC}} & < 10 \\
+     \text{SA}_{\text{MIC}} & < 10 \\
+     \text{HC}_{50} & > 200 \\
+\end{array}
 \right.
-\end{equation}
+$$
+
