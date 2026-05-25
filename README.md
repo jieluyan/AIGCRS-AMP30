@@ -61,5 +61,3 @@ And then the MIC values of E. coli and S. aureus and HC50 values can be predicte
      \text{HC}_{50} & > 200 \\
 \end{array}
 \right.
-
-Rank by \text{AMP}_{\text{prob}}
