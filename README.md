@@ -52,7 +52,7 @@ And then the MIC values of E. coli and S. aureus and HC50 values can be predicte
 
 9. Follow the following screen conditions to extract the AMP candidate squences for wet-lab experiments.
 
-$
+```math
 \left\{
 \begin{array}{cc}
     \text{AMP}_{\text{prob}} & > 0.9  \\
@@ -61,5 +61,5 @@ $
      \text{HC}_{50} & > 200 \\
 \end{array}
 \right.
-$
+.```
 
